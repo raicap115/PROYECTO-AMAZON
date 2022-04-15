@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7Z55x3+YXFZwLPciwD7a7PKLLVoTJMXEDfGpFDYeswU=",
+  "Hash": "EYcTnGS9niL26Yj6qvjNuyIGoQv52XI/htLYmur2NiI=",
   "Source": "PROYECTO-AMAZON",
   "BasePath": "_content/PROYECTO-AMAZON",
   "Mode": "Default",
@@ -49,23 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ASUS\\Desktop\\PROYECTO-AMAZON\\PROYECTO-AMAZON\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PROYECTO-AMAZON.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\ASUS\\Desktop\\PROYECTO-AMAZON\\PROYECTO-AMAZON\\wwwroot\\css\\login.css",
-      "SourceId": "PROYECTO-AMAZON",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Desktop\\PROYECTO-AMAZON\\PROYECTO-AMAZON\\wwwroot\\",
-      "BasePath": "_content/PROYECTO-AMAZON",
-      "RelativePath": "css/login.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
       "Identity": "C:\\Users\\ASUS\\Desktop\\PROYECTO-AMAZON\\PROYECTO-AMAZON\\wwwroot\\css\\site.css",
